@@ -15,3 +15,5 @@ cpuPriority.ps1
 This script will work with any windows:
 
 watchFirewal.ps1
+
+Some of these can be converted to EXE files wth PS2EXE
