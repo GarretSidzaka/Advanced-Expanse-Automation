@@ -14,4 +14,4 @@ cpuPriority.ps1
 
 This script will work with any windows:
 
-watchFirewal.psa
+watchFirewal.ps1
